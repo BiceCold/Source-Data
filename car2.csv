@@ -1,0 +1,20 @@
+names,Price,Country,Reliability,Mileage,Type,Weight,Disp.,HP
+Eagle Summit 4,8895,USA,4,33,Small,2560,97,113
+Ford Escort   4,7402,USA,2,33,Small,2345,114,90
+Ford Festiva 4,6319,Korea,4,37,Small,1845,81,63
+Honda Civic 4,6635,Japan/USA,5,32,Small,2260,91,92
+Mazda Protege 4,6599,Japan,5,32,Small,2440,113,103
+Mercury Tracer 4,8672,Mexico,4,26,Small,2285,97,82
+Nissan Sentra 4,7399,Japan/USA,5,33,Small,2275,97,90
+Pontiac LeMans 4,7254,Korea,1,28,Small,2350,98,74
+Subaru Loyale 4,9599,Japan,5,25,Small,2295,109,90
+Subaru Justy 3,5866,Japan,5,34,Small,1900,73,73
+Toyota Corolla 4,8748,Japan/USA,5,29,Small,2390,97,102
+Toyota Tercel 4,6488,Japan,5,35,Small,2075,89,78
+Volkswagen Jetta 4,9995,Germany,3,26,Small,2330,109,100
+Chevrolet Camaro V8,11545,USA,1,20,Sporty,3320,305,170
+Dodge Daytona,9745,USA,1,27,Sporty,2885,153,100
+Ford Mustang V8,12164,USA,1,19,Sporty,3310,302,225
+Ford Probe,11470,USA,3,30,Sporty,2695,133,110
+Honda Civic CRX Si 4,9410,Japan,5,33,Sporty,2170,97,108
+Honda Prelude Si 4WS 4,13945,Japan,5,27,Sporty,2710,125,140
